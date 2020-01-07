@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :dlib-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f82125974587b108173c5192982e99f/jetified-dlib-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f82125974587b108173c5192982e99f/jetified-dlib-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
