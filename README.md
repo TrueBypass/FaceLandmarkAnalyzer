@@ -14,7 +14,7 @@ for classification
 `$ git clone https://github.com/TrueBypass/FaceLandmarkAnalyzer.git`
 
 ### Demo
-![](demo/collage.png)
+![](demo/Collage.png)
 
 ### Build
 
